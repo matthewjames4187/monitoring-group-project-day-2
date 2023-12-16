@@ -1,0 +1,10 @@
+---
+# vars file for roles/eval2
+s3_bucket_name: "james-eval2-bucket-4187"
+
+python_packages:
+  - python3-pip
+  - python3-venv
+
+mysql_db_name: "todo_db"
+
